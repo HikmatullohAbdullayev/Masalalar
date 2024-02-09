@@ -35,4 +35,7 @@ const num = Number(prompt("son kirting"))
     // }
 
 
+    // Misol-3 Sharti
+    
+
     
