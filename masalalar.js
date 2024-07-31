@@ -76,4 +76,4 @@ const num = Number(prompt("son kirting"))
 let son1 = 4
 let son2 = 10
 
-if()
+// if()
